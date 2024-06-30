@@ -1,4 +1,4 @@
-# Schooling Website
+# Get Schooled Website
 
 Welcome to the Schooling Website project! This platform is designed to streamline the educational experience by providing tools and features for students, teachers, and administrators.
 ## Overview
